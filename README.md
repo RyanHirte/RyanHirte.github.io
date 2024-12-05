@@ -1,10 +1,3 @@
-# Web Dev Starter
-Boilerplate for static websites.
+# My github.io page
+For my github.io page, I made a portfolio. It is still a work in progress though, I'm not sure how I feel about the styling.
 
-## What is this?
-
-* Starting point for static websites
-
-## How do I use this?
-
-* Clone this repo
